@@ -1,7 +1,7 @@
 -- insert data
 
 insert into dbo.Customer2 (FirstName, LastName, Age)
- values ('Joey', 'Blue', 40);
+ values ('Joey', 'Blue', 43);
 
  insert into dbo.Customer2 (FirstName, LastName, Age)
  values ('Haey', 'Jones', 52);
